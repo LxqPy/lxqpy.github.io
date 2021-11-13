@@ -21,4 +21,4 @@ You can read the license right [here](https://www.gnu.org/licenses/old-licenses/
 ## Enjoy !
 
 Powered by [Github Pages](https://pages.github.com)
-Currently using Jekyll Themes called [Midnight](https://github.com/pages-themes/midnight) .
+Currently using Jekyll Themes called [Midnight](https://github.com/pages-themes/midnight), by [mattgraham](https://twitter.com/mattgraham) .
