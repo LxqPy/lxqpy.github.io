@@ -1,4 +1,4 @@
-# LxqPy
+# Home | LxqPy
 
 ## What is LxqPy ?
 
