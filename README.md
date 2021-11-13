@@ -1,37 +1,24 @@
 # LxqPy
 
-You can use the [editor on GitHub](https://github.com/LxqPy/lxqpy.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## What is LxqPy ?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+LxqPy is a free. hackable, lightweight, and open-source window manager designed for X Window System, which only works on *NIX system
+such as Linux, BSD, Solaris, or any UNIX operating system. LxqPy is written in Python 3.9.7, which is a programming language released 
+by Python Software Foundation. LxqPy also depends on the Python 3 XLib package, which is a library for X Window System. So make sure 
+you have XLib and Python 3.9.7 ! Both of them are needed.
 
-### Markdown
+## Status :
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The first version of LxqPy, 1.0.0 Alpha 1, is still under construction. So there is no official release, yet.
 
-```markdown
-Syntax highlighted code block
+## License :
 
-# Header 1
-## Header 2
-### Header 3
+LxqPy is  licensed in GNU Public License 2 / GPL 2, by GNU
+Project, by Free Software Foundation / FSF . 
 
-- Bulleted
-- List
+You can read the license right [here](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) .
 
-1. Numbered
-2. List
+## Enjoy !
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LxqPy/lxqpy.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Powered by [Github Pages](https://pages.github.com)
+Currently using Jekyll Themes called [Midnight](https://github.com/pages-themes/midnight) .
